@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ActivityAnim</string>
+    <string name="trans">tansition</string>
 </resources>
